@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.exe
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.deps.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.genruntimeconfig.cache

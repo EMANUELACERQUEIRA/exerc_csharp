@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\bin\Debug\netcoreapp3.1\Maior.exe
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\bin\Debug\netcoreapp3.1\Maior.deps.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\bin\Debug\netcoreapp3.1\Maior.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\bin\Debug\netcoreapp3.1\Maior.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\bin\Debug\netcoreapp3.1\Maior.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\bin\Debug\netcoreapp3.1\Maior.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\obj\Debug\netcoreapp3.1\Maior.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\obj\Debug\netcoreapp3.1\Maior.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\obj\Debug\netcoreapp3.1\Maior.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\obj\Debug\netcoreapp3.1\Maior.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\obj\Debug\netcoreapp3.1\Maior.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\obj\Debug\netcoreapp3.1\Maior.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Maior\Maior\obj\Debug\netcoreapp3.1\Maior.genruntimeconfig.cache

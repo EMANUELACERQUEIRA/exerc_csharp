@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.exe
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.deps.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.exe
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.deps.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\bin\Debug\netcoreapp3.1\Esfera.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\Esfera\Esfera\obj\Debug\netcoreapp3.1\Esfera.csprojAssemblyReference.cache

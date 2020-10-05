@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.exe
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.deps.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\bin\Debug\netcoreapp3.1\SalarioBonus.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.dll
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.pdb
+\\vmware-host\Shared Folders\Desktop\exerc_csharp\SalarioBonus\SalarioBonus\obj\Debug\netcoreapp3.1\SalarioBonus.genruntimeconfig.cache
